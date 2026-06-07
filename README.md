@@ -139,4 +139,4 @@ GitHub:
 https://github.com/ABdallahMEaad
 
 LinkedIn:
-Add your LinkedIn profile here
+https://www.linkedin.com/in/abdallah-meaad/?skipRedirect=true
